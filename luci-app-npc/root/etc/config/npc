@@ -1,8 +1,8 @@
 
 config npc
-	option enable '0'
-	option server_addr '1.2.3.4:123'
+	option enable '1'
+	option server_addr 'npsport1.qilyn.com:51200'
 	option protocol 'tcp'
-	option vkey 'abcdefg'
+	option vkey '123456789Aax1.'
 	option dns '127.0.0.1:53'
 
