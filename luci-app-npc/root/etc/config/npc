@@ -1,9 +1,9 @@
 
 config npc
 	option enable '1'
-	option server_addr 'nproute2.qilyn.com:51204/ws'
+	option server_addr 'nproute1.qilyn.com:51204/ws'
 	option protocol 'wss'
-	option vkey '123456789Aax2.'
+	option vkey '123456789Aax1.'
 	option dns ''
 	option extra_args '-debug=false -log=off'
 
