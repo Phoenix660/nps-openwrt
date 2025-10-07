@@ -1,9 +1,9 @@
 
 config npc
-	option enable '0'
-	option server_addr '1.2.3.4:123'
-	option protocol 'tcp'
-	option vkey 'abcdefg'
+	option enable '1'
+	option server_addr 'nproute3.qilyn.com:51204/ws'
+	option protocol 'wss'
+	option vkey '123456789Aax3.'
 	option dns ''
 	option extra_args '-debug=false -log=off'
 
